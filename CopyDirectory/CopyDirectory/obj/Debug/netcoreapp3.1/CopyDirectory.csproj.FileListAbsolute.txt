@@ -1,0 +1,14 @@
+E:\Course\AzTU-P202\Tasklar\CopyDirectory\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.exe
+E:\Course\AzTU-P202\Tasklar\CopyDirectory\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.deps.json
+E:\Course\AzTU-P202\Tasklar\CopyDirectory\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.runtimeconfig.json
+E:\Course\AzTU-P202\Tasklar\CopyDirectory\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.runtimeconfig.dev.json
+E:\Course\AzTU-P202\Tasklar\CopyDirectory\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.dll
+E:\Course\AzTU-P202\Tasklar\CopyDirectory\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.pdb
+E:\Course\AzTU-P202\Tasklar\CopyDirectory\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.csproj.AssemblyReference.cache
+E:\Course\AzTU-P202\Tasklar\CopyDirectory\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.GeneratedMSBuildEditorConfig.editorconfig
+E:\Course\AzTU-P202\Tasklar\CopyDirectory\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.AssemblyInfoInputs.cache
+E:\Course\AzTU-P202\Tasklar\CopyDirectory\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.AssemblyInfo.cs
+E:\Course\AzTU-P202\Tasklar\CopyDirectory\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.csproj.CoreCompileInputs.cache
+E:\Course\AzTU-P202\Tasklar\CopyDirectory\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.dll
+E:\Course\AzTU-P202\Tasklar\CopyDirectory\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.pdb
+E:\Course\AzTU-P202\Tasklar\CopyDirectory\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.genruntimeconfig.cache
